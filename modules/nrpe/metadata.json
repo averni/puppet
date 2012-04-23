@@ -1,0 +1,44 @@
+{
+  "dependencies": [
+
+  ],
+  "name": "lab42-nrpe",
+  "author": "",
+  "license": "",
+  "version": "0.1.2",
+  "types": [
+
+  ],
+  "checksums": {
+    "tests/disable.pp": "c031c1db3b672af00f11ca8b009598e8",
+    "tests/absent.pp": "d2f8142d928693a6fc11cacded3688cb",
+    "manifests/params.pp": "7957061b8ac13f74d87ea77b5c1f5ba0",
+    "manifests/absent.pp": "991f9050da4bce29d4c1848c96d03d12",
+    "manifests/backup.pp": "08585d9300a9e41d6f0bb4fcebbf5ae4",
+    "tests/firewall.pp": "c6c08cb6e23197f16b24cf16ec44bb54",
+    "tests/monitor.pp": "0869d1c81714ca537e3fe7d2850fb82f",
+    "tests/debug.pp": "bea6573d7933c0d433404b83b4007135",
+    "manifests/monitor.pp": "6020335c81c791500de876b4be0913b2",
+    "manifests/disableboot.pp": "633d5ce67a710894985f87f870f43e7d",
+    "templates/nrpe.cfg.erb": "d78ff820c2ad888d752e5870454978c7",
+    "manifests/debian.pp": "49032d4705f8b22f5717aa5ce00a5e64",
+    "manifests/firewall.pp": "3a72147c53f8c400e901cfe3d1efa02a",
+    "README": "c0792268ed2c01de48bb7410a896532b",
+    "tests/disableboot.pp": "587888c0c1f714365ecdbe264cfdfe6d",
+    "templates/nrpe-init-debian.erb": "7d11ef5741d4d9c54cbf7ad8c31ddefa",
+    "manifests/redhat.pp": "5f1ad5f77aecebd2ada317d1656cf8fd",
+    "tests/init.pp": "64a62c3a843b7da5c57b571c73ca7608",
+    "templates/nrpe-init-redhat.erb": "3fcebb8f39b957ef63b406668be7cbb5",
+    "manifests/example42.pp": "bff7bda51d14b914b4e603f369c4c722",
+    "manifests/disable.pp": "a98a6a11bd7ee10cd4b5a7fec2cc75d4",
+    "manifests/monitor/example42.pp": "3b960cb3d8d415d0dcb040057e230b3a",
+    "manifests/debug.pp": "59f6d23fe80fe0d66b2a88f608fa22e7",
+    "manifests/conf.pp": "421cd416d62cfb6949082193052ebcbf",
+    "tests/backup.pp": "9068cd3778e77fc7fa688ca68758273c",
+    "Modulefile": "c825d94993a6ab55d7b5d5d4e45b3070",
+    "manifests/backup/example42.pp": "c5cc8d3d6d349877d60a513ed7bdc718",
+    "manifests/init.pp": "1c383bc5af8174036ebd97c5a8e63d60",
+    "templates/variables_nrpe.erb": "6b6e254347538f394a51959d2bd6dc83"
+  },
+  "source": ""
+}
